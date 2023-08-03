@@ -3,7 +3,7 @@ Explore the Cosmos: Daily Astronomy and Mars Pictures from NASA 😊
 
 To View the live site click [here &rarr;](https://nasa.pages.dev/)
 
-![Portfolio Gif](/portfolio.gif)
+![Portfolio Gif](/project.gif)
 
 ## Features
 
