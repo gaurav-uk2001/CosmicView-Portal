@@ -1,7 +1,7 @@
 # Nasa_App
 Explore the Cosmos: Daily Astronomy and Mars Pictures from NASA 😊
 
-To View the live site click [here &rarr;](https://gaurav-uk2001.github.io/Todo_JS/)
+To View the live site click [here &rarr;](https://nasa.pages.dev/)
 
 ![Portfolio Gif](/portfolio.gif)
 
